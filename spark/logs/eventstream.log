@@ -1,0 +1,66 @@
+-------------------------------------------
+Batch: 0
+-------------------------------------------
++--------------------+-----+
+|            customer|score|
++--------------------+-----+
+|Angie.Mitra@test.com|  4.0|
+|Santosh.Clark@tes...|  9.0|
+| John.Mitra@test.com|  6.5|
+|Ben.Anderson@test...| -1.0|
+|Edward.Sanchez@te...| 15.0|
+|Edward.Staples@te...| -5.0|
+|Ashley.Habschied@...| -4.5|
+|Dan.Spencer@test.com| -3.5|
+|Sarah.Jackson@tes...| -3.5|
+| Chris.Huey@test.com| -4.5|
+|Ashley.Jefferson@...| -4.5|
+|Sean.Anderson@tes...| -1.5|
+|Jane.Gonzalez@tes...| -1.5|
+|Larry.Lincoln@tes...| -2.0|
+|David.Spencer@tes...| -1.5|
+| Dan.Hansen@test.com| -4.0|
+|Suresh.Olson@test...| 11.5|
+|David.Gonzalez@te...| -7.0|
+|Dan.Habschied@tes...| 32.0|
+|Craig.Hansen@test...| 23.0|
++--------------------+-----+
+only showing top 20 rows
+
+-------------------------------------------
+Batch: 1
+-------------------------------------------
++--------------------+-----+
+|            customer|score|
++--------------------+-----+
+| Chris.Huey@test.com| -6.0|
+|Ashley.Jefferson@...| -5.0|
+|Sean.Anderson@tes...|  0.0|
+|Jane.Gonzalez@tes...| -1.5|
+|Larry.Lincoln@tes...| -1.5|
+|David.Spencer@tes...| -4.5|
+| Dan.Hansen@test.com| -1.5|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 2
+-------------------------------------------
++--------------------+-----+
+|            customer|score|
++--------------------+-----+
+|Suresh.Olson@test...|  8.0|
+|David.Gonzalez@te...|  5.5|
+|Dan.Habschied@tes...|-22.0|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 3
+-------------------------------------------
++--------------------+-----+
+|            customer|score|
++--------------------+-----+
+|Craig.Hansen@test...|-10.0|
+|Danny.Hansen@test...|  1.0|
+|Ashley.Clark@test...| -3.0|
++--------------------+-----+
+
